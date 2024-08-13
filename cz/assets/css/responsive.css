@@ -364,6 +364,11 @@
     #cookie-bar p {
         font-size: 13px;
     }
+    button.dropbtn {
+        position: absolute;
+        top: 12px;
+        right: 46px;
+    }
 
     /* Cookies CSS End */
 }
