@@ -89,8 +89,8 @@ $('.subpage-readmore-btn').click(function (e) {
 
 // //Cookies JS Start
 $("#cookie-popup button").click(function () {
-  $("#cookie-popup").fadeOut();
-  });
+$("#cookie-popup").fadeOut();
+});
 
 // //Cookies JS Start
 
