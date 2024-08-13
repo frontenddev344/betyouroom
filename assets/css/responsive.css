@@ -106,6 +106,7 @@
         padding: 20px 10px;
         width: 100%;
     }
+
     /* Cookies CSS End */
 }
 
@@ -364,12 +365,14 @@
     #cookie-bar p {
         font-size: 13px;
     }
-    button.dropbtn {
-        position: absolute;
-        top: 12px;
-        right: 46px;
-    }
 
+    .dropdowns.desktop {
+        display: none;
+    }
+    .menu-icon {
+        display: flex;
+        align-items: center;
+    }
     /* Cookies CSS End */
 }
 
